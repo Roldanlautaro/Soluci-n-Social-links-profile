@@ -4,6 +4,7 @@
 
 
 Link = https://roldanlautaro.github.io/Solucion-Social-links-profile/
+
 Ejercicio = https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
 
 Este desafio utilize css displey flex con responsive para todas las pantallas
