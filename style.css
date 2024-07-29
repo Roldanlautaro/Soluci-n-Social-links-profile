@@ -83,6 +83,8 @@ img{
     height: 50%;
     display: flex;
     margin-bottom: 1rem;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 
 a{
