@@ -14,6 +14,7 @@ El desafío requería crear estados de desplazamiento y enfoque para todos los e
 # Enlaces
 
 ▪︎ URL de la problema = https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
+
 ▪︎ URL del sitio en vivo = https://roldanlautaro.github.io/Solucion-Social-links-profile/
 
 # Que aprendí
