@@ -4,5 +4,7 @@
 
 
 Ejercicio = https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
+
 Este desafio utilize css displey flex con responsive para todas las pantallas
-Me ayudo mucho a conprender los distintos flex-direction column y justifycontent space-evenly
+
+Me ayudo mucho a comprender los distintos flex-direction column y justifycontent space-evenly
